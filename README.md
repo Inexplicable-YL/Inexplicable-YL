@@ -1,8 +1,10 @@
+<a href="#">
+  <img align="right" src="https://gh-stats.com/api?username=Inexplicable-YL&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&width=200&height=40&lines=Hi+there+%F0%9F%91%8B;I'm+Kotodama+~)](https://git.io/typing-svg)
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Inexplicable-YL&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
-</a>
+
 
 - 🌱 I’m currently learning Rust, Linux, C++ ...
 - 👯 I’m looking to collaborate on [Locution Pro](https://github.com/GCL-MAD-CLUB/Locution-Pro)
